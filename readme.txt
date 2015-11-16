@@ -1,4 +1,2 @@
-my own in g2
-This is readme file.
-add from server
-server add new line
+git url is : https://github.com/christesthybris/learngit.git
+username is: christesthybris
